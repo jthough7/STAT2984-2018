@@ -4,18 +4,18 @@ Due: Tuesday, January 23, 2018 @ 8:00am
 
 Fill in the following three blanks.
 
-Name:
-Major:
-Expected graduation date:
+Name: Jonathan Hough
+Major: Statistics
+Expected graduation date: 2021
 
 
 Answer the following four questions.
 
 Why are you taking this class?
-
+It is required for my major
 What is your previous programming experience?
-
+intro to computational thinking and computer science in high school
 What do you want to take away from this class?
-
+Become a better programmer through critical thinking
 Do you have any apprehensions about this class? If so, describe.
-
+Not being able to solve a certain question through coding
